@@ -41,7 +41,7 @@ means a single set of weight matrix.
 
 The definition for each bracket (from left to right) is listed below:
 
-```6x6```    
+```Conway```    
 means this neural network is trained to mimic the rationale of the cells in Conway's Game of Life.
 
 ```1```     
