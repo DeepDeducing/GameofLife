@@ -38,7 +38,7 @@ Deducing_xxx.py
 
 
 
-## Already-trained Sets of weight matrix
+## Already-trained sets of weight matrix
 
 We have sets of weight matrix already-trained for your convenience. Please see the definition below to understand the content of each set of weight matrix.
 
